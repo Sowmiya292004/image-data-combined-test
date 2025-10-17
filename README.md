@@ -1,3 +1,2 @@
-# image-data-combined-test
-
-Generated application for image-data-combined-test
+bash
+    git clone https://github.com/Sowmiya292004/image-data-combined-test.git
